@@ -1,6 +1,7 @@
 ![](https://github.com/MdEbrahim-Shuvo/MdEbrahim-Shuvo/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Md Ebrahim</h1>
 <h3 align="center">🚀 Web Developer | 💡 Problem Solver | 🌐 Tech Enthusiast</h3>
+<p>I'm an aspiring Web Developer with a passion for creating elegant, user-friendly web experiences. I've recently embarked on my journey in web development and have built a strong foundation in HTML and CSS. As I continue to learn and grow, I aim to enhance my skills in modern web technologies and contribute to open-source projects.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdebrahim-shuvo&label=Profile%20views&color=0e75b6&style=flat" alt="mdebrahim-shuvo" /> </p>
 
