@@ -1,4 +1,4 @@
-![](https://github.com/MdEbrahim-Shuvo/MdEbrahim-Shuvo/blob/main/Hi%2C%20I%20am%20Ebrahim.png)
+![](https://github.com/MdEbrahim-Shuvo/MdEbrahim-Shuvo/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Md Ebrahim</h1>
 <h3 align="center">🚀 Web Developer | 💡 Problem Solver | 🌐 Tech Enthusiast</h3>
 
